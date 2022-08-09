@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Maven Source Plugin 3.2.1
+Main-Class: order.book.management.Main
+
